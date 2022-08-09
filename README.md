@@ -1,4 +1,4 @@
-### Olá, me chamo Albert Conceição, Desenvolvedor de Software com experiência em Front-End 💻
+### Olá, me chamo Albert Conceição, Desenvolvedor de Software com experiência em Front-End e Back-End 💻
 <br>
 <div align="center">
   <a href="https://github.com/albertconceicao">
